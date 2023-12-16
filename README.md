@@ -15,11 +15,11 @@ I'm Maxandre, a Software engineer from France <img src="https://hatscripts.githu
     </tr>
     <tr>
         <td><a href="https://github.com/maxand-re/Sparkus">Sparkus</a></td>
-        <td>✨ A robust and scalable ESM-based <br>framework for large Node.js backends.</td>
+        <td>✨ A robust and scalable ESM-based framework for large Node.js backends.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/maxand-re/JavaRyGameEngine">JavaRyGameEngine</a></td>
-        <td>JavaRyGameEngine (jRGE) - Modern pure<br> Java Game Engine</td>
+        <td>JavaRyGameEngine (jRGE) - Modern pure Java Game Engine</td>
     </tr>
 </table>
 
