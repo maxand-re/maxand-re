@@ -1,3 +1,5 @@
+<img src="./banner.png"/>
+
 ## 👋 Hello there!
 
 Welcome!<br>
