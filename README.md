@@ -5,8 +5,6 @@
 Welcome!<br>
 I'm Maxandre, a Software engineer from France <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="12">.
 
-<h4>⚠️ I'm looking for a 2024 summer internship of 3 months.</h1>
-
 <br>
 
 ### 🔨 Some projects I made
